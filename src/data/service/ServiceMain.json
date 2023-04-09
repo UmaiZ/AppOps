@@ -1,0 +1,32 @@
+[
+    {
+        "image": "/images/icon/icon-1.png",
+        "title": "Mobile Development",
+        "description": "Creating software for mobile devices like smartphones and tablets, involving design, coding, testing, and deployment for platforms like Android and iOS."
+    },
+    {
+        "image": "/images/icon/icon-2.png",
+        "title": "Web Development",
+        "description": "Web development involves creating tailored websites or web applications that meet the unique requirements and goals of individual customers/client."
+    },
+    {
+        "image": "/images/icon/icon-3.png",
+        "title": "Game Development",
+        "description": "Game development is the process of creating video games, including designing game mechanics, art, sound, and programming using game engines."
+    },
+    {
+        "image": "/images/icon/icon-4.png",
+        "title": "Blockchain",
+        "description": "Blockchain is a decentralized digital ledger technology that records transactions in a secure and transparent manner, primarily used for cryptocurrencies."
+    },
+    {
+        "image": "/images/icon/icon-5.png",
+        "title": "Marketing",
+        "description": "Marketing is the process of promoting and selling products or services, including market research, advertising, branding, and sales techniques."
+    },
+    {
+        "image": "/images/icon/icon-6.png",
+        "title": "Cloud Services",
+        "description": "Cloud services refer to the delivery of computing services including storage, processing, and software over the internet, rather than locally on a computer."
+    }
+]

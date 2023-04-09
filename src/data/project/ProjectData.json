@@ -1,0 +1,174 @@
+[
+    {
+        "id": 1,
+        "image": "/images/project/project-3.png",
+        "title": "43VERS",
+        "category": [
+            "Mobile Apps",
+            "UI/UX"
+        ],
+        "excerpt": "it's a matchmaking platform where people can connect and find their soul partners based on shared values, interests, and compatibility",
+        "body": [
+            "43 Vers is a revolutionary matchmaking app designed to help people find their soul partners. With advanced algorithms and a comprehensive profile system, 43 Vers offers personalized recommendations based on users' interests, preferences, and values. Our platform fosters meaningful connections and long-lasting relationships, with features like real-time messaging, video calls, and in-app events to bring people together. 43 Vers is available on both iOS and Android, providing a seamless and user-friendly experience. Join 43 Vers today and discover your perfect match.",
+            "43 Vers is more than just a dating app, it's a matchmaking platform where people can connect and find their soul partners based on shared values, interests, and compatibility. Our app is designed to provide a personalized and enjoyable user experience, with features like personality tests, video profiles, and real-time chat. We also prioritize security and privacy, with measures like photo verification and manual profile screening to ensure a safe and trustworthy community. With 43 Vers, you can trust that you're connecting with people who are truly compatible with you and your values."
+        ],
+        "deliver": "We are proud to have delivered a mobile app with exceptional UI/UX design. Our team of skilled designers and developers worked closely with our client to create a visually appealing and intuitive user interface, while ensuring seamless functionality and optimal user experience. With our expertise in mobile app development and UI/UX design, we were able to deliver a high-quality product that met and exceeded our client's expectations.",
+        "strategy": "Research, unique value, matching algorithm, intuitive UI, personalization, security, social features.",
+        "design": "We provide UI/UX design and wireframes in AdobeXD.",
+        "development": "We provide a mobile app created on Flutter."
+    },
+    {
+        "id": 2,
+        "image": "/images/project/project-1.png",
+        "title": "CricketR+",
+        "category": [
+            "Mobile Apps",
+            "Branding"
+        ],
+        "excerpt": "Experience Cricket Like Never Before - Track the Game with Ease!",
+        "body": [
+            "CRICKETR+ enables cricket enthusiasts to track their progress, analyze their statistics, and stay abreast of the most recent cricket news and updates. The app has live match scorecards, schedules for international and league cricket matches, and a personalized CricketR profile with detailed cricket stats. Users can also collect one-of-a-kind NFTs of cricketers and earn badges and awards for their achievements on the field. Also, the app gives registered users a premium experience without ads and with pro features.",
+            "Coverage of almost every Cricket Match, including the World Cup 2023, Pakistan super league, Indian Premier league, Bigbash league, women bigbash league, women Indian premier league, Bangladesh premier league, Lanka premier league and other national and international cricket completitions/matches and more."
+        ],
+        "deliver": "We are proud to have delivered a mobile app with exceptional UI/UX design. Our team of skilled designers and developers worked closely with our client to create a visually appealing and intuitive user interface, while ensuring seamless functionality and optimal user experience. With our expertise in mobile app development and UI/UX design, we were able to deliver a high-quality product that met and exceeded our client's expectations.",
+        "strategy": "Real-time score updates, personalized alerts, intuitive UI, in-depth statistics, social sharing, and seamless user experience.",
+        "design": "We provide UI/UX design and wireframes in FIGMA.",
+        "development": "We provide a mobile app created on Flutter."
+    },
+    {
+        "id": 3,
+        "image": "/images/project/project-2.png",
+        "title": "The Human Times",
+        "category": [
+            "Website"
+        ],
+        "deliver": "We are proud to have delivered a website with exceptional UI/UX design. Our team of skilled designers and developers worked closely with our client to create a visually appealing and intuitive user interface, while ensuring seamless functionality and optimal user experience. With our expertise in website development and UI/UX design, we were able to deliver a high-quality product that met and exceeded our client's expectations.",
+        "excerpt": "Personalized feeds, real-time updates, multimedia support, intuitive UI, curated content, and seamless user experience for a news app.",
+        "body": [
+            "The Human Times delivers curated content personalized to each user's interests. With real-time updates, multimedia support, and an intuitive UI, users can stay informed and up-to-date with the latest news and events from around the world. Our team of developers and designers created a seamless user experience that makes accessing and sharing news easy and enjoyable.",
+            "The Human Times is designed to keep you informed and up-to-date with the latest news and events from around the world. With personalized feeds, real-time updates, and an intuitive user interface, the app delivers curated content that's tailored to your interests. Whether you're interested in politics, sports, or entertainment, our news app has got you covered. With multimedia support and seamless user experience, staying informed has never been easier."
+        ],
+        "strategy": "Curated content, personalized feeds, intuitive UI, real-time updates, multimedia support, and seamless user experience.",
+        "design": "We provide UI/UX design and wireframes in FIGMA.",
+        "development": "We provide a website created on ReactJS."
+    },
+    {
+        "id": 4,
+        "image": "/images/project/project-4.png",
+        "title": "Invoicer",
+        "category": [
+            "Mobile Apps",
+            "UI/UX"
+        ],
+        "excerpt": "Create, manage and send invoices on-the-go. User-friendly interface with easy payment integration. Efficient business tool.",
+        "body": [
+            "An invoicer app for mobile devices can streamline invoicing processes, making it easy to create, manage, and send invoices from anywhere. With a user-friendly interface and easy payment integration, it's an efficient business tool that can help you keep track of your finances on-the-go. The app can also provide insights into payment trends, outstanding invoices, and customer behavior to help you make informed decisions about your business. Whether you're a freelancer or a small business owner, a mobile invoice app can simplify your invoicing and payment collection processes.            "
+        ],
+        "deliver": "We are proud to have delivered a mobile app with exceptional UI/UX design. Our team of skilled designers and developers worked closely with our client to create a visually appealing and intuitive user interface, while ensuring seamless functionality and optimal user experience. With our expertise in mobile app development and UI/UX design, we were able to deliver a high-quality product that met and exceeded our client's expectations.",
+        "strategy": "Curated content, personalized feeds, intuitive UI, real-time updates, multimedia support, and seamless user experience.",
+        "design": "We provide UI/UX design and wireframes in FIGMA.",
+        "development": "We provide a website created on Swift and Kotlin."
+    },
+    {
+        "id": 5,
+        "image": "/images/project/project-5.png",
+        "title": "Anefti",
+        "category": [
+            "Website",
+            "UI/UX",
+            "Design",
+            "Development"
+        ],
+        "deliver": "We are proud to have delivered a website with exceptional UI/UX design. Our team of skilled designers and developers worked closely with our client to create a visually appealing and intuitive user interface, while ensuring seamless functionality and optimal user experience. With our expertise in website development and UI/UX design, we were able to deliver a high-quality product that met and exceeded our client's expectations.",
+        "excerpt": "Secure platform to create, trade, and collect NFTs. Integration with cryptocurrency payment options. User-friendly interface.",
+        "body": [
+            "Anefti an NFT project involves creating a secure platform that enables users to create, trade, and collect NFTs. This typically involves building a backend infrastructure that integrates blockchain technology to ensure the security and authenticity of NFTs. The frontend of the platform should provide a user-friendly interface, with intuitive navigation and clear messaging around NFT creation, trading, and collection. The platform should also incorporate features like digital wallets, smart contracts, and verification processes to ensure the validity of NFTs and provide a seamless user experience. Additionally, the platform should be designed with scalability in mind to accommodate growing numbers of users and transactions. Finally, it's important to stay up-to-date on the latest developments in the NFT space and make adjustments to the platform as necessary to ensure it meets the needs of users and clients alike."
+        ],
+        "strategy": "Research, planning, and execution to build secure, user-friendly platform for creating, trading, and collecting NFTs.",
+        "design": "We provide UI/UX design and wireframes in AdobeXD.",
+        "development": "We provide a website created on ReactJS."
+    },
+    {
+        "id": 7,
+        "image": "/images/project/project-7.png",
+        "title": "Ririlo",
+        "category": [
+            "Website"
+        ],
+        "deliver": "We are proud to have delivered a website with exceptional UI/UX design. Our team of skilled designers and developers worked closely with our client to create a visually appealing and intuitive user interface, while ensuring seamless functionality and optimal user experience. With our expertise in website development and UI/UX design, we were able to deliver a high-quality product that met and exceeded our client's expectations.",
+        "excerpt": "Build secure, scalable platform with easy navigation, intuitive UI, and seamless payment integration for online shopping.",
+        "body": [
+            "Web development for Ririlo ecommerce involves creating a user-friendly online store for fashion and lifestyle products. The website should be designed with an attractive and modern interface, featuring product categories, search functionality, and detailed product pages. The checkout process should be seamless with payment integration, shipping options, and order management. Ririlo ecommerce should also have marketing features such as social media integration, email marketing, and customer loyalty programs to increase sales and customer engagement. Additionally, the website should be optimized for search engines to attract more traffic and sales. The development process should ensure the security of customer information and transactions. Quality assurance testing should also be performed to ensure the website functions smoothly and is free of bugs and vulnerabilities. Overall, the goal of Ririlo ecommerce web development is to create a profitable online store that provides an enjoyable shopping experience for customers."
+        ],
+        "strategy": "Research, planning, and execution to build a profitable online store with user-friendly design, marketing, and customer support.",
+        "design": "We provide UI/UX design and wireframes in AdobeXD.",
+        "development": "We provide a website created on ReactJS."
+    },
+    {
+        "id": 8,
+        "image": "/images/project/project-8.png",
+        "title": "Cryptochad",
+        "category": [
+            "Web Apps",
+            "SaaS"
+        ],
+        "excerpt": "A quick view of industry specific problems solved with design by the awesome team at Keystroke.",
+        "body": [
+            "From the designers and engineers who are creating the next generation of web and mobile experiences, to anyone putting a website together for the first time. We provide elegant solutions that set new standards for online publishing.",
+            "Digital technology has made our world more transparent and interconnected, posing new challenges and opportunities for every business. A holistic, user-centric perspective is what truly sets one apart."
+        ]
+    },
+    {
+        "id": 9,
+        "image": "/images/project/project-9.png",
+        "title": "Kstudio",
+        "category": [
+            "Website"
+        ],
+        "excerpt": "A quick view of industry specific problems solved with design by the awesome team at Keystroke.",
+        "body": [
+            "From the designers and engineers who are creating the next generation of web and mobile experiences, to anyone putting a website together for the first time. We provide elegant solutions that set new standards for online publishing.",
+            "Digital technology has made our world more transparent and interconnected, posing new challenges and opportunities for every business. A holistic, user-centric perspective is what truly sets one apart."
+        ]
+    },
+    {
+        "id": 10,
+        "image": "/images/project/project-10.png",
+        "title": "Dapboard",
+        "category": [
+            "Web Apps",
+            "SaaS"
+        ],
+        "excerpt": "A quick view of industry specific problems solved with design by the awesome team at Keystroke.",
+        "body": [
+            "From the designers and engineers who are creating the next generation of web and mobile experiences, to anyone putting a website together for the first time. We provide elegant solutions that set new standards for online publishing.",
+            "Digital technology has made our world more transparent and interconnected, posing new challenges and opportunities for every business. A holistic, user-centric perspective is what truly sets one apart."
+        ]
+    },
+    {
+        "id": 11,
+        "image": "/images/project/project-11.png",
+        "title": "Ocular",
+        "category": [
+            "Website"
+        ],
+        "excerpt": "A quick view of industry specific problems solved with design by the awesome team at Keystroke.",
+        "body": [
+            "From the designers and engineers who are creating the next generation of web and mobile experiences, to anyone putting a website together for the first time. We provide elegant solutions that set new standards for online publishing.",
+            "Digital technology has made our world more transparent and interconnected, posing new challenges and opportunities for every business. A holistic, user-centric perspective is what truly sets one apart."
+        ]
+    },
+    {
+        "id": 12,
+        "image": "/images/project/project-12.png",
+        "title": "RecruitR",
+        "category": [
+            "Mobile Apps"
+        ],
+        "excerpt": "A quick view of industry specific problems solved with design by the awesome team at Keystroke.",
+        "body": [
+            "From the designers and engineers who are creating the next generation of web and mobile experiences, to anyone putting a website together for the first time. We provide elegant solutions that set new standards for online publishing.",
+            "Digital technology has made our world more transparent and interconnected, posing new challenges and opportunities for every business. A holistic, user-centric perspective is what truly sets one apart."
+        ]
+    }
+]

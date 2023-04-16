@@ -8,8 +8,8 @@ const Nav = () => {
         <nav className="mainmenu-nav">
             <ul className="mainmenu">
                 <li><Link to={process.env.PUBLIC_URL + "/"}>Home</Link></li>
-                <li><Link to={process.env.PUBLIC_URL + "/"}>Services</Link></li>
-                <li><Link to={process.env.PUBLIC_URL + "/"}>Portfolio</Link></li>
+                <li><Link to={process.env.PUBLIC_URL + "/our-services"}>Services</Link></li>
+                <li><Link to={process.env.PUBLIC_URL + "/our-portfolio"}>Portfolio</Link></li>
                 {/* <li><Link to={process.env.PUBLIC_URL + "/"}>Aboutus</Link></li> */}
 
                 {/* <li className="menu-item-has-children">

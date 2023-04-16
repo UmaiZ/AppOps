@@ -112,11 +112,15 @@
             "Web Apps",
             "SaaS"
         ],
-        "excerpt": "A quick view of industry specific problems solved with design by the awesome team at Keystroke.",
+        "deliver": "We are proud to have delivered a website with exceptional UI/UX design. Our team of skilled designers and developers worked closely with our client to create a visually appealing and intuitive user interface, while ensuring seamless functionality and optimal user experience. With our expertise in website development and UI/UX design, we were able to deliver a high-quality product that met and exceeded our client's expectations.",
+        "excerpt": "A crypto trading app strategy involves using real-time market data and price charts to make informed trading decisions. Advanced trading features, such as stop-loss orders and margin trading, may also be utilized.",
         "body": [
-            "From the designers and engineers who are creating the next generation of web and mobile experiences, to anyone putting a website together for the first time. We provide elegant solutions that set new standards for online publishing.",
-            "Digital technology has made our world more transparent and interconnected, posing new challenges and opportunities for every business. A holistic, user-centric perspective is what truly sets one apart."
-        ]
+            "A Cryptochad app allows users to buy, sell, and trade cryptocurrencies on a mobile platform. Users create an account, link their bank account or credit card, and use real-time market data to make informed trading decisions. The app also provides advanced security features and may offer additional features such as portfolio tracking and educational resources.",
+            "Cryptochad  provide users with a convenient and accessible way to trade cryptocurrencies on-the-go. They offer real-time market data, price charts, and advanced trading features to help users make informed trading decisions. Additionally, they provide enhanced security measures to protect users' funds and offer additional features such as portfolio tracking and educational resources."
+        ],
+        "strategy": "A crypto trading app strategy involves using real-time market data and price charts to make informed trading decisions. Advanced trading features, such as stop-loss orders and margin trading, may also be utilized.",
+        "design": "We provide UI/UX design and wireframes in AdobeXD.",
+        "development": "We provide a website created on ReactJS."
     },
     {
         "id": 9,
@@ -125,11 +129,15 @@
         "category": [
             "Website"
         ],
-        "excerpt": "A quick view of industry specific problems solved with design by the awesome team at Keystroke.",
+        "deliver": "We are proud to have delivered a website with exceptional UI/UX design. Our team of skilled designers and developers worked closely with our client to create a visually appealing and intuitive user interface, while ensuring seamless functionality and optimal user experience. With our expertise in website development and UI/UX design, we were able to deliver a high-quality product that met and exceeded our client's expectations.",
+        "excerpt": "A Kstudio web strategy involves creating an aesthetically pleasing and user-friendly website to showcase the studio's portfolio and services. A booking system and blog can also be incorporated to enhance the client experience and promote the studio's expertise.",
         "body": [
-            "From the designers and engineers who are creating the next generation of web and mobile experiences, to anyone putting a website together for the first time. We provide elegant solutions that set new standards for online publishing.",
-            "Digital technology has made our world more transparent and interconnected, posing new challenges and opportunities for every business. A holistic, user-centric perspective is what truly sets one apart."
-        ]
+            "A Kstuido web project is a website that showcases a photo studio's portfolio, services, and contact information. It may also include a blog, pricing information, and a booking system for clients to schedule appointments. The website aims to attract potential clients and promote the studio's brand and services.",
+            "A Kstuido web project provides numerous benefits to a photo studio, including an online platform to showcase their portfolio and services, attract new clients, and increase brand visibility. A booking system simplifies the appointment scheduling process, while a blog can enhance the studio's authority and expertise in the industry. The website also offers an opportunity to display pricing information and promote special offers or discounts."
+        ],
+        "strategy": "A Kstudio web strategy involves creating an aesthetically pleasing and user-friendly website to showcase the studio's portfolio and services. A booking system and blog can also be incorporated to enhance the client experience and promote the studio's expertise.",
+        "design": "We provide UI/UX design and wireframes in AdobeXD.",
+        "development": "We provide a website created on NextJS."
     },
     {
         "id": 10,
@@ -139,24 +147,14 @@
             "Web Apps",
             "SaaS"
         ],
-        "excerpt": "A quick view of industry specific problems solved with design by the awesome team at Keystroke.",
+        "excerpt": "A projects analytics web strategy involves developing a website that provides businesses with the ability to track and analyze project data in real-time. The website offers visualizations and reports to help businesses monitor project progress, identify issues, and make informed decisions.        ",
         "body": [
-            "From the designers and engineers who are creating the next generation of web and mobile experiences, to anyone putting a website together for the first time. We provide elegant solutions that set new standards for online publishing.",
-            "Digital technology has made our world more transparent and interconnected, posing new challenges and opportunities for every business. A holistic, user-centric perspective is what truly sets one apart."
-        ]
-    },
-    {
-        "id": 11,
-        "image": "/images/project/project-11.png",
-        "title": "Ocular",
-        "category": [
-            "Website"
+            "A Dapboard project is a website that provides businesses with a platform to track and analyze their project data. The website offers visualizations and reports to help businesses monitor project progress, identify issues, and make informed decisions. The website aims to increase efficiency, productivity, and profitability of businesses.",
+            "A Dapboard provides numerous benefits to businesses, including the ability to monitor and analyze project data in real-time. The website offers visualizations and reports that help businesses identify issues, make informed decisions, and increase project efficiency and productivity. By analyzing project data, businesses can also identify opportunities for cost savings and increased profitability."
         ],
-        "excerpt": "A quick view of industry specific problems solved with design by the awesome team at Keystroke.",
-        "body": [
-            "From the designers and engineers who are creating the next generation of web and mobile experiences, to anyone putting a website together for the first time. We provide elegant solutions that set new standards for online publishing.",
-            "Digital technology has made our world more transparent and interconnected, posing new challenges and opportunities for every business. A holistic, user-centric perspective is what truly sets one apart."
-        ]
+        "strategy": "A projects analytics web strategy involves developing a website that provides businesses with the ability to track and analyze project data in real-time. The website offers visualizations and reports to help businesses monitor project progress, identify issues, and make informed decisions.        ",
+        "design": "We provide UI/UX design and wireframes in AdobeXD.",
+        "development": "We provide a website created on NextJS."
     },
     {
         "id": 12,
@@ -165,10 +163,13 @@
         "category": [
             "Mobile Apps"
         ],
-        "excerpt": "A quick view of industry specific problems solved with design by the awesome team at Keystroke.",
+        "excerpt": "A RecruitR mobile strategy involves developing an application that streamlines the job search and hiring process for both job seekers and employers. The app offers features such as job search, resume submission, applicant tracking, and communication between employers and candidates.",
         "body": [
-            "From the designers and engineers who are creating the next generation of web and mobile experiences, to anyone putting a website together for the first time. We provide elegant solutions that set new standards for online publishing.",
-            "Digital technology has made our world more transparent and interconnected, posing new challenges and opportunities for every business. A holistic, user-centric perspective is what truly sets one apart."
-        ]
+            "A RecruitR mobile app project is an application that streamlines the job search and hiring process for both job seekers and employers. The app may offer features such as job search, resume submission, applicant tracking, and communication between employers and candidates. The app aims to simplify the recruitment process and improve the experience for both job seekers and employers.",
+            "A RecruitR mobile app project provides numerous benefits, including a streamlined job search process for job seekers and an easier, more efficient way for employers to find and communicate with potential candidates. The app offers features such as job search, resume submission, applicant tracking, and communication between employers and candidates. The app aims to reduce recruitment time, costs, and effort while improving the experience for both job seekers and employers."
+        ],
+        "strategy": "A RecruitR mobile strategy involves developing an application that streamlines the job search and hiring process for both job seekers and employers. The app offers features such as job search, resume submission, applicant tracking, and communication between employers and candidates. ",
+        "design": "We provide UI/UX design and wireframes in AdobeXD.",
+        "development": "We provide a website created on NextJS."
     }
 ]

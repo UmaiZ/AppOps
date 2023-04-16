@@ -25,16 +25,16 @@ const BannerOne = () => {
                                 </div>
                             </AnimationOnScroll>
                             <AnimationOnScroll animateIn="slideInRight" duration={2} delay={300} animateOnce={true}>
-                            <div className="large-thumb-2">
-                                <img src={process.env.PUBLIC_URL + "/images/banner/laptop-poses.png"} alt="Laptop" />
-                            </div>
+                                <div className="large-thumb-2">
+                                    <img src={process.env.PUBLIC_URL + "/images/banner/laptop-poses.png"} alt="Laptop" />
+                                </div>
                             </AnimationOnScroll>
                             <ul className="list-unstyled shape-group">
                                 <li className="shape shape-1">
                                     <AnimationOnScroll animateIn="slideInLeft" duration={1} delay={800} animateOnce={true}>
                                         <img src={process.env.PUBLIC_URL + "/images/banner/chat-group.png"} alt="chat" />
                                     </AnimationOnScroll>
-                                </li> 
+                                </li>
                             </ul>
                         </div>
                     </div>

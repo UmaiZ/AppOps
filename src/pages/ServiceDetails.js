@@ -42,7 +42,7 @@ const ServiceDetails = () => {
                     title={detailsService.title}
                     paragraph={detailsService.description}
                     styleClass=""
-                    mainThumb="/images/banner/banner-thumb-4.png"
+                    mainThumb={detailsService.banner}
                 />
                 <AboutThree />
 

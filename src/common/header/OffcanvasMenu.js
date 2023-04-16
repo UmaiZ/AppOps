@@ -37,15 +37,15 @@ const OffcanvasMenu = ({ offcanvasShow, offcanvasHide }) => {
                             <div className="contact-inner">
                                 <address className="address">
                                     <span className="title">Contact Information</span>
-                                    <p>Theodore Lowe, Ap #867-859 <br /> Sit Rd, Azusa New York</p>
+                                    <p>Clifton Block 6<br /> Karachi Pakistan</p>
                                 </address>
                                 <address className="address">
                                     <span className="title">We're Available 24/7. Call Now.</span>
-                                    <a href="tel:8884562790" className="tel"><FaPhone /> (888) 456-2790</a>
-                                    <a href="tel:12125553333" className="tel"><FaFax /> (121) 255-53333</a>
+                                    <a href="tel:923323789263" className="tel"><FaPhone /> (92) 3323-789-263</a>
+                                    {/* <a href="tel:12125553333" className="tel"><FaFax /> (121) 255-53333</a> */}
                                 </address>
                             </div>
-                            <div className="contact-inner">
+                            {/* <div className="contact-inner">
                                 <h5 className="title">Find us here</h5>
                                 <div className="contact-social-share">
                                     <ul className="social-share list-unstyled">
@@ -64,7 +64,7 @@ const OffcanvasMenu = ({ offcanvasShow, offcanvasHide }) => {
                                         </li>
                                     </ul>
                                 </div>
-                            </div>
+                            </div> */}
                         </div>
                     </div>
                 </div>

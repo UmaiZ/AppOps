@@ -16,13 +16,13 @@ const ProjectGridOne = () => {
             <ColorSwitcher />
             <main className="main-wrapper">
                 <HeaderOne />
-                <BcrumbBannerOne
+                {/* <BcrumbBannerOne
                     title="Our Projects"
                     paragraph="A quick view of industry specific problems solved with design by the awesome team at AppOps.
                 "
                     styleClass=""
                     mainThumb="/images/banner/banner-thumb-1.png"
-                />
+                /> */}
                 <ProjectOne />
                 <CtaLayoutOne />
                 <FooterOne parentClass="" />

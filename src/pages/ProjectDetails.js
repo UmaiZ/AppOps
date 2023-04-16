@@ -83,7 +83,7 @@ const ProjectDetails = () => {
                         </div>
                     </div>
                 </section>
-                <VideoOne />
+                {/* <VideoOne /> */}
                 <CtaLayoutOne />
                 <FooterOne parentClass="" />
             </main>

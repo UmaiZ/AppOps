@@ -37,7 +37,7 @@ const OffcanvasMenu = ({ offcanvasShow, offcanvasHide }) => {
                             <div className="contact-inner">
                                 <address className="address">
                                     <span className="title">Contact Information</span>
-                                    <p>11111 Katy Fwy<br /> STE 910, Houston, TX, 79079</p>
+                                    <p>24th Floor, HARBORSIDE FINANCIAL CENTER<br /> 2500 Plaza, Houston, TX</p>
                                 </address>
                                 <address className="address">
                                     <span className="title">We're Available 24/7. Call Now.</span>

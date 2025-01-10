@@ -13,8 +13,8 @@ const SplashHeader = () => {
                 <div className="container">
                     <div className="header-navbar">
                         <div className="header-logo">
-                            <Logo limage="/images/logo.svg"
-                                dimage="/images/logo-3.svg"
+                            <Logo limage="/images/logo.png"
+                                dimage="/images/logo-3.png"
                                 simage="/images/logo-2.svg"
                             />
                         </div>

@@ -6,7 +6,7 @@ const SEO = ({ title }) => {
     return (
         <>
             <meta charSet="utf-8" />
-            <title>TheAppOps - Ensure Business Success</title>
+            <title>AppCorn - Ensure Business Success</title>
 
             {/* <title>AppOps | {title}</title> */}
             <meta name="robots" content="noindex, follow" />

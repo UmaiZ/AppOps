@@ -51,7 +51,7 @@ const ComingSoon = () => {
                         <div className="col-12">
                             <div className="site-logo">
                                 <Link to={process.env.PUBLIC_URL + "/"} className="logo-light"><img src={process.env.PUBLIC_URL + "/images/logo-2.svg"} alt="Logo" /></Link>
-                                <Link to={process.env.PUBLIC_URL + "/"} className="logo-dark"><img src={process.env.PUBLIC_URL + "/images/logo-3.svg"} alt="Logo" /></Link>
+                                <Link to={process.env.PUBLIC_URL + "/"} className="logo-dark"><img src={process.env.PUBLIC_URL + "/images/logo-3.png"} alt="Logo" /></Link>
                             </div>
                         </div>
                         <div className="col-xl-6 col-lg-8">

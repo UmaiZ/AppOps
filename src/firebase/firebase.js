@@ -3,9 +3,9 @@ import { getFirestore } from "@firebase/firestore"
 
 const firebaseConfig = {
     apiKey: "AIzaSyDkwo92oExUsbdEqizu5eFXuDQC08WseJs",
-    authDomain: "theappops.firebaseapp.com",
-    projectId: "theappops",
-    storageBucket: "theappops.appspot.com",
+    authDomain: "AppCorn.firebaseapp.com",
+    projectId: "AppCorn",
+    storageBucket: "AppCorn.appspot.com",
     messagingSenderId: "948095914256",
     appId: "1:948095914256:web:8e436b120de346d45d1595",
     measurementId: "G-M23EEGKJJS"
